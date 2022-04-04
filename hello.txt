@@ -17,7 +17,7 @@ hello world!hello git!
 hello world!hello git!
 hello world!hello git!
 hello world!hello git!
-hello world!hello git!
+hello world!hello git! hot-fix text
 hello world!hello git!
 12123143312435
 
